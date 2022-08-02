@@ -1,0 +1,4 @@
+marketing, massMarketing, targetedMarketing
+research, study, fieldResearch
+study, observation, questionnaire, interview
+purchase

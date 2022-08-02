@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\VioCheck\\lib\\algs4.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\VioCheck\\lib\\antlr-4.7.2-complete.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\VioCheck\\lib\\junit-platform-console-standalone-1.8.2.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\lib\\algs4.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\lib\\antlr-4.7.2-complete.jar",
+    "c:\\Users\\Mia\\Desktop\\VioCheck\\lib\\junit-platform-console-standalone-1.8.2.jar"
+  ]
+}

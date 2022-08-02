@@ -1,0 +1,5 @@
+marketing, targetedMarketing, massMarketing
+purchase, payment, shipping
+payment, email
+shipping, email
+registration, email

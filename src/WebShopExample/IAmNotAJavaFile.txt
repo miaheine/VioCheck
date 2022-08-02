@@ -1,0 +1,8 @@
+public class NotJava {
+
+This is a lot of text and definitely not a Java File!
+
+    public void {research} thisMethodShouldNotBeInYourMap() {
+
+    }
+}
